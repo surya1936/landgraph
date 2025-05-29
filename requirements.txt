@@ -1,0 +1,5 @@
+# requirements.txt
+langchain
+fastapi
+uvicorn
+openai
